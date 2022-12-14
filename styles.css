@@ -1,2 +1,26 @@
 
 /* Your CSS Code here. */
+h1{
+    background-color: rgb(170, 184, 255);
+    text-align: center;
+    padding: 10px;
+}
+div{
+    background-color: rgb(170, 184, 255);
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+}
+img{
+    display: block;
+    height: 300px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+section{
+    padding: 10px;
+    margin: 10px;
+    width: 100%;
+    border : solid rgb(170, 184, 255);
+}
